@@ -9,5 +9,7 @@ function ligarDesliga(){
     }else{
         document.getElementById('lamp').src = imagem_ligado;
     }
+    // processo utilizado para acender a lampada no HTML,
+    // 
 }
 document.getElementById("lamp").addEventListener("click", ligarDesliga);
