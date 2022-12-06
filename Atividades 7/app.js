@@ -5,6 +5,6 @@ function convercao(){
 
         // to.fixed é utilizado para definir o número de casas decimais
 
-    document.write("Você tem R$" ,(valor) , ", com esse valor é possivel comprar " ,(litros) ,", essa quantidade de litros faz com que o carro rode ",(km),".")
+    document.write("Você tem R$" ,(valor) , ", com esse valor é possivel comprar " ,(litros) ," litros, essa quantidade de litros faz com que o carro rode ",(km),"Km.")
 }
 // document.write é utilizado para passar por escrito o conteúdo desejado
